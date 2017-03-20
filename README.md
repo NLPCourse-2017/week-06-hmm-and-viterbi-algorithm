@@ -1,0 +1,1 @@
+# NLP Lab. Course - Week 06: Hidden Markov Model and Viterbi Algorithm
